@@ -1,2 +1,2 @@
 # AI_programming_with_Python
-Udacity 
+Udacity online course
